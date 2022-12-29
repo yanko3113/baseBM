@@ -1,0 +1,61 @@
+msgid "Title"
+msgstr "Titulo"
+
+msgid "Short Body"
+msgstr "Entrada Corta"
+
+msgid "Body"
+msgstr "Entrada"
+
+msgid "Not Found"
+msgstr "No Encontrado"
+
+msgid "The requested address %s was not found on this server."
+msgstr "La dirección %s no fué encontrado en este sitio."
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Confort Module"
+msgstr "Módulo de Confort"
+
+msgid "Available Sizes"
+msgstr "Medidas Disponibles"
+
+msgid "Specifications"
+msgstr "Especificaciones"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Featured"
+msgstr "Destacado"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Mainsubtitle"
+msgstr "Texto Home"
+
+msgid "Subtitle"
+msgstr "Subtitulo"
+
+msgid "Services"
+msgstr "Servicios"
+
+msgid "Advantages"
+msgstr "Ventajas"
+
+

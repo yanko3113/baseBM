@@ -1,0 +1,338 @@
+@media screen and (min-width: 1600px) {
+    .contenedor-bandera.bo {
+        left: 15%;
+    }
+    .contenedor-bandera.py {
+        right: 15%;
+    }
+    .titulo-descripcion {
+        width: 45%;
+    }
+    .bg-celeste,
+    .bg-circulo,
+    .bg-contacto {
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 1390px) {
+    .bg-servicio {
+        width: 325px;
+        height: 325px;
+    }
+    .titulo-servicio {
+        font-size: 40px;
+    }
+    .imagen-circular {
+        width: 550px;
+        height: 550px;
+    }
+    .bmpeople-fondo-verde {
+        margin-left: -120px;
+    }
+    .bmoutsourcing-fondo-bordo {
+        margin-left: -100px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .borde-celeste {
+        width: 95vw;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .contenedor-bandera {
+        width: 380px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .borde-celeste {
+        height: 35vh;
+    }
+    .info2 {
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .info3 {
+        width: 75%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .bg-titulo {
+        min-height: 200px;
+    }
+    .bg-titulo h1,
+    .bg-titulo span {
+        font-size: 40px;
+    }
+    .servicio-item h5 {
+        min-height: auto;
+    }
+    .servicio-item {
+        margin-bottom: 30px;
+    }
+    .bg-circulo h3,
+    .bg-circulo span {
+        font-size: 25px;
+        margin: 10px auto;
+    }
+    .bg-circulo {
+        min-height: auto;
+    }
+    .bg-celeste h1 {
+        font-size: 32px;
+    }
+    .bg-amarillo h3 {
+        font-size: 25px;
+    }
+    .bg-amarillo .btn-buscador {
+        font-size: 25px;
+    }
+    .contacto h4 {
+        font-size: 38px;
+    }
+    input[type="text"].form-control,
+    input[type="email"].form-control,
+    input[type="number"].form-control,
+    textarea.form-control,
+    input[type="submit"].form-control {
+        font-size: 18px;
+    }
+    input[type="submit"] {
+        width: 180px;
+    }
+    .imagen-circular {
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .logo-centrado {
+        margin: 50px auto;
+    }
+    .servicio-item h3 {
+        font-size: 25px;
+    }
+    .servicio-item-interna h3 {
+        font-size: 30px;
+    }
+    .servicios-bg-bmpeople,
+    .servicios-bg-outsourcing,
+    .servicios-bg-trade,
+    .servicios-bg-btl,
+    .servicios-bg-implant,
+    .servicios-bg-payroll,
+    .servicios-bg-academy {
+        height: 300px;
+    }
+    .bmpeople-fondo-verde,
+    .bmoutsourcing-fondo-bordo,
+    .bmtrade-fondo-naranja,
+    .bmbtl-fondo-verde-agua,
+    .bmimplant-fondo-celeste-claro,
+    .bmpayroll-fondo-azul-marino,
+    .bmacademy-fondo-gris {
+        margin-left: 0;
+    }
+    .navbar-dark .navbar-toggler {
+        color: rgba(255, 255, 255);
+        border-color: rgba(255, 255, 255);
+    }
+    .mt-100px {
+        margin-top: 20px;
+    }
+    .bmpayroll-interna .imagen-circular img {
+        padding: 10px 0px 0 15px;
+    }
+    .bmacademy-interna .imagen-circular img {
+        padding: 10px 10px 10px 20px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .contenedor-bandera {
+        width: 350px;
+    }
+    .contenedor-bandera h2 {
+        font-size: 20px;
+    }
+    .bmtrade-interna .imagen-circular img {
+        padding: 10px 20px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .contenedor-bandera {
+        width: 300px;
+    }
+    .borde-celeste {
+        height: 30vh;
+    }
+    .info2 {
+        width: 80%;
+        height: auto;
+    }
+    .info2 h1,
+    .info3 h1 {
+        font-size: 40px;
+    }
+    .bg-celeste h1 {
+        font-size: 29px;
+    }
+    .bg-celeste span,
+    .bg-celeste p {
+        font-size: 25px;
+    }
+    .borde-servicio {
+        padding: 35px;
+    }
+    .servicio-item-interna h3 {
+        font-size: 25px;
+    }
+    .imagen-circular {
+        width: 400px;
+        height: 400px;
+    }
+    h1 {
+        font-size: 40px !important;
+    }
+    .titulo-servicio,
+    .contacto h4 {
+        font-size: 30px !important;
+    }
+    footer h5 {
+        font-size: 20px !important;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .logo-intro {
+        margin: 50px auto 0 auto;
+    }
+    .contenedor-bandera {
+        width: 250px;
+    }
+    .borde-celeste {
+        height: 35vh;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .titulo-verde {
+        width: 100%;
+    }
+    .servicios h4 {
+        font-size: 30px;
+    }
+    .bg-circulo h3,
+    .bg-circulo span,
+    a,
+    p,
+    li,
+    input[type="text"].form-control,
+    input[type="email"].form-control,
+    input[type="number"].form-control,
+    textarea.form-control,
+    input[type="submit"].form-control,
+    header .navbar a.nav-link,
+    header .dropdown button,
+    .servicio-item h5,
+    .servicio-item-interna h3,
+    .contenedor-bandera h2,
+    .bg-celeste span,
+    .bg-celeste p,
+    .bg-amarillo h3 {
+        font-size: 16px !important;
+    }
+    .contenedor-bandera {
+        width: 180px;
+    }
+    .contenedor-bandera img {
+        margin-left: 5px;
+    }
+    .borde-celeste {
+        height: 30vh;
+    }
+    .logo-amarillo-bmgroup {
+        width: 250px;
+    }
+    .info1 {
+        width: 270px;
+        height: 410px;
+        left: 13%;
+    }
+    .info1 h1 {
+        width: 100%;
+    }
+    .info1 a {
+        width: auto;
+    }
+    .info2 {
+        width: 270px;
+    }
+    .titulo-descripcion {
+        width: 85%;
+    }
+    .borde-servicio {
+        padding: 15px;
+    }
+    .logo-centrado {
+        margin: 30px auto;
+    }
+    .bg-celeste {
+        background-size: cover;
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .imagen-circular {
+        width: 300px;
+        height: 300px;
+    }
+    .bg-amarillo {
+        min-height: 250px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .bg-titulo h1,
+    .bg-titulo span,
+    .bg-celeste h1 {
+        font-size: 30px !important;
+    }
+    .contenedor-bandera img {
+        width: 35px;
+    }
+    .contenedor-bandera {
+        width: 150px;
+        height: 67px;
+    }
+    .contenedor-bandera h2 {
+        height: 67px;
+    }
+    .contenedor-bandera.bo {
+        left: 0;
+    }
+    .contenedor-bandera.py {
+        right: 0;
+    }
+    .bg-amarillo .btn-buscador {
+        font-size: 18px;
+        width: 200px;
+    }
+    header .dropdown-menu {
+        min-width: 330px;
+    }
+    header .dropdown-menu .dropdown-item {
+        padding: 10px 10px;
+    }
+    .icono-telefono {
+        height: 50px;
+    }
+    footer h5 {
+        font-size: 15px !important;
+    }
+}
